@@ -1,0 +1,16 @@
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.exe
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyClassLib.Views.dll
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyClassLib.Views.pdb
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\appsettings.Development.json
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\appsettings.json
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.dll
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.deps.json
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.runtimeconfig.json
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.pdb
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyClassLib.dll
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyClassLib.pdb
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\wwwroot\_content\MyClassLib\css\site.css
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\wwwroot\_content\MyClassLib\favicon.ico
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\wwwroot\_content\MyClassLib\js\site.js
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.Views.dll
+C:\Users\visha\Desktop\samples-main\samples\aspnetcore\mvc\runtimecompilation\MyApp\obj\Release\netcoreapp3.0\PubTmp\Out\MyApp.Views.pdb

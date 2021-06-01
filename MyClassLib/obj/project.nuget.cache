@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C04hUmSAb6lA4fdJaPAPDp3d8fEz7zfEQdFpDMb8JEeyhussiesyVxPBi/cyy1iR1ilxwaTq4v8fO4zYOrsGzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
