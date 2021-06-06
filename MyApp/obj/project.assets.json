@@ -672,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\source\\repos\\trainee\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\visha\\source\\repos\\trainee\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\visha\\source\\repos\\trainee\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -693,8 +693,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj": {
-              "projectPath": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj"
+            "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\MyClassLib.csproj": {
+              "projectPath": "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\MyClassLib.csproj"
             }
           }
         }

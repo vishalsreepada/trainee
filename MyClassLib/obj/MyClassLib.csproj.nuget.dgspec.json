@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj": {}
+    "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\MyClassLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj": {
+    "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\MyClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj",
+        "projectUniqueName": "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\MyClassLib.csproj",
         "projectName": "MyClassLib",
-        "projectPath": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\MyClassLib.csproj",
+        "projectPath": "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\MyClassLib.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\Desktop\\samples-main\\samples\\aspnetcore\\mvc\\runtimecompilation\\MyClassLib\\obj\\",
+        "outputPath": "C:\\Users\\visha\\source\\repos\\trainee\\MyClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
